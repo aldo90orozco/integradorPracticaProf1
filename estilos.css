@@ -1,0 +1,21 @@
+#hero{
+    background:url(../imagenes/hero.jpg);
+    min-height:50vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+p{
+    font-size:2em ;
+}
+
+#tarjetas{
+    background: url(../imagenes/fondoTarjetas.png);
+}
+
+#contacto{
+    background-color: black;
+    color: white;
+}
